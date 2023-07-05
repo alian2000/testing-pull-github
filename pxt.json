@@ -1,5 +1,5 @@
 {
-    "name": "testing-pull-github",
+    "name": "microbit",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -22,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
